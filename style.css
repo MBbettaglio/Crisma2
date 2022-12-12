@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&display=swap');
+   
+    body{
+    background-color: #333;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Mountains of Christmas';
+}
+
+.viba{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: -15;
+}
+
+h1{
+    position: absolute;
+    letter-spacing: 3px;
+    bottom: 1%;
+    left: 5%;
+    color: white;
+    font-size: 100px;
+    text-align: left;
+    text-shadow: 6px 5px 5px black
+
+}
+
+p{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    bottom: 1%;
+    left: 5%;
+    text-shadow: 6px 5px 5px black
+
+    }
